@@ -1,12 +1,10 @@
 <h1>filt-modifier</h1>
 <hr><p>filt-modifier is used for bypassing most comment filter</p><h2>General Information</h2>
 <hr><ul>
-<li>filt-modifier is used for bypassing pattern matching and AI filtered in comment such as Tiktok or Instagram by using special unicode.</li>
+<li>filt-modifier is used for bypassing pattern matching and AI filtered in comment such as Tiktok or Instagram by using special unicode range that most people will ignore</li>
 </ul><ul>
-<li>Filter comment</li>
 </ul><ul>
-<li>To make user feel the freedom in commenting and criticism</li>
-</ul><h2>Technologies Used</h2>
+<li>To make user feel the freedom in commenting and making a criticism more easily </li>
 <hr><ul>
 <li>HTML</li>
 </ul><ul>
